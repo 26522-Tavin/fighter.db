@@ -1,4 +1,4 @@
-#impots sqlite3
+#imports sqlite3
 import sqlite3
 
 DATABASE = "fighters.db"
